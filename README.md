@@ -1,6 +1,7 @@
 # rust talk
 
-
+## Code
+The talk is based on the code at: https://github.com/toidiu/fin
 
 ## new content
 - thinking about lifetimes
